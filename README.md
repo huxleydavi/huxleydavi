@@ -5,11 +5,11 @@
 - 💻 Front-End Developer
 - 📚 Estuando Back-End
 - 🚀 Futuro empreendedor
-- 🤺 17 anos
+- 🤺 19 anos
 
 <div align="left">
   <a href="https://github.com/huxleydavi">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=huxleydavi&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=huxleydavi&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huxleydavi&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
